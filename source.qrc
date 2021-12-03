@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file alias="ico">icon.ico</file>
+        <file>../build-windpro-Desktop_Qt_5_9_1_MinGW_32bit-Release/enlarge.bmp</file>
+        <file>../build-windpro-Desktop_Qt_5_9_1_MinGW_32bit-Release/file.gif</file>
+        <file>../build-windpro-Desktop_Qt_5_9_1_MinGW_32bit-Release/ini.bmp</file>
+        <file>../build-windpro-Desktop_Qt_5_9_1_MinGW_32bit-Release/open1.gif</file>
+        <file>../build-windpro-Desktop_Qt_5_9_1_MinGW_32bit-Release/open2.gif</file>
+        <file>../build-windpro-Desktop_Qt_5_9_1_MinGW_32bit-Release/save.gif</file>
+        <file>../build-windpro-Desktop_Qt_5_9_1_MinGW_32bit-Release/shrink.bmp</file>
+    </qresource>
+</RCC>
